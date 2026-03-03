@@ -1,0 +1,15 @@
+{
+  "LightGBM": {
+    "AUC": 0.7124,
+    "AP": 0.5911,
+    "Precision@5": 0.6,
+    "Recall@5": 0.0008,
+    "NDCG@5": 0.6548,
+    "Precision@8": 0.75,
+    "Recall@8": 0.0016,
+    "NDCG@8": 0.7426,
+    "Precision@10": 0.8,
+    "Recall@10": 0.0021,
+    "NDCG@10": 0.776
+  }
+}
